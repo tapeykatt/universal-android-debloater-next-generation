@@ -43286,6 +43286,14 @@
     "labels": [],
     "removal": "Unsafe"
   },
+  "com.google.android.apps.cameralite": {
+    "list": "Google",
+    "description": "Camera Go. Probably safe to remove as long as you have another camera app.",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Recommended"
+  },
     "org.lineageos.backgrounds": {
     "list": "Oem",
     "description": "LineageOS backgrounds. Safe to remove as long as you have another wallpaper set or have a non-LineageOS default one.",
